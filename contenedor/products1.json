@@ -1,0 +1,8 @@
+[
+  { "id": 1, "title": "Escuadra", "price": 123.45 },
+  { "id": 2, "title": "Regla", "price": 123.45 },
+  { "id": 4, "title": "Gorra", "price": 123.45 },
+  { "id": 5, "title": "Gorra", "price": 123.45 },
+  { "id": 6, "title": "Gorra", "price": 123.45 },
+  { "id": 7, "title": "Gorra", "price": 123.45 }
+]
